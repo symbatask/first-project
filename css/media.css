@@ -1,326 +1,489 @@
 @media(max-width: 1200px) {
-    .container{
+    .container {
         max-width: 940px;
     }
-    .hero-title{
+
+    .hero-title {
         font-size: 60px;
         margin-top: 42px;
 
     }
-    .hero-desc{
+
+    .hero-desc {
         font-size: 16px;
     }
-    .scroll-down{
-    font-size: 11px;}
+
+    .scroll-down {
+        font-size: 11px;
+    }
+
     .story-heading {
         font-size: 20px;
 
     }
+
     .story-info {
         font-size: 13px;
     }
+
     .about_info_item p {
         font-size: 24px;
 
     }
+
     .col-8 {
         width: 100%;
 
 
     }
 
+    .newsletter_form {
+        font-size: 22px;
 
-}
+    }
+
     .header-menu-item {
         font-size: 12px;
         margin-left: 40px;
     }
+
     .section-title {
 
         font-size: 18px;
 
     }
+
     .col-6 {
         width: 50%;
         padding: 0 15px;
     }
-.story-heading {
-    font-size: 19px;}
 
-.story-info {
-    font-size: 13px;
-}
-.about_info_item p {
-    font-size: 24px;
-
-}
-.cap-title {
-    font-size: 18px;
-
-
-}
-.cap-desc {
-    font-size: 11px;
-
-}
-
-.btn {
-    font-size: 13px;
-width: 150px;
-
-
-}
-
-
-
-@media(max-width: 992px){
-
-    .container{
-        max-width: 740px;
-    }
-    .hero-title{
-        font-size: 45px;
-
-    }
-    .hero-desc{
-        font-size: 14px;
-    }
-    .scroll-down{
-        font-size: 10px;
-
-    }
-
-    .col-3{
-        width: 50%;
-    }
-    .header-menu-item {
-        font-size: 12px;
-        margin-left: 35px;
-
-    }
-    .section-title {
-
-        font-size: 17px;
-
-    }
-    .col-6 {
-        width: 100%;
-        padding: 0 15px;
-    }
     .story-heading {
-        font-size: 18px;
-
+        font-size: 19px;
     }
 
     .story-info {
         font-size: 13px;
     }
+
     .about_info_item p {
         font-size: 24px;
 
     }
-.descs{
-    flex-direction: column;
-    width: 100%;
 
-}
     .cap-title {
-        font-size: 17px;
-
+        font-size: 18px;
 
 
     }
+
     .cap-desc {
         font-size: 11px;
 
     }
 
-    .btn {
+    .cap-btn {
         font-size: 13px;
-        margin: 15px 0 0;
         width: 150px;
 
-    }
-    .col-4 {
-        width: 100%;
-        margin-top: 15px;
-    }
-    .get_in_subject {
 
+    }
+
+    .get_in_subject {
         font-size: 28px;
-
-    }
-    .col-8 {
-        width: 100%;
-
-
-    }
-    .newsletter_form{
-        padding: 0;
-        margin-left: 0;
-        flex-direction: column;
-        align-items: center;
     }
 
+    .newsletter_form {
+        font-size: 20px;
+
+    }
+
+
+
+
+    @media (max-width: 992px) {
+
+        .container {
+            max-width: 740px;
+        }
+
+        .hero-title {
+            font-size: 45px;
+
+        }
+
+        .hero-desc {
+            font-size: 14px;
+        }
+
+        .scroll-down {
+            font-size: 10px;
+
+        }
+
+        .col-3 {
+            width: 50%;
+        }
+
+        .header-menu-item {
+            font-size: 12px;
+            margin-left: 35px;
+
+        }
+
+        .section-title {
+
+            font-size: 17px;
+
+        }
+
+        .col-6 {
+            width: 100%;
+            padding: 0 15px;
+        }
+
+        .story-heading {
+            font-size: 18px;
+
+        }
+
+        .story-info {
+            font-size: 13px;
+        }
+
+        .about_info_item p {
+            font-size: 24px;
+
+        }
+
+        .descs {
+            flex-direction: column;
+            width: 100%;
+
+        }
+
+        .cap-title {
+            font-size: 17px;
+
+
+        }
+
+        .cap-desc {
+            font-size: 11px;
+            margin-top: 15px;
+
+        }
+
+        .cap-btn {
+            font-size: 13px;
+            margin: 15px 0 0;
+            width: 150px;
+
+        }
+
+        .col-4 {
+            width: 33.333%;
+            margin-top: 15px;
+        }
+
+        .get_in_subject {
+
+            font-size: 28px;
+
+        }
+
+        .col-8 {
+            width: 100%;
+
+
+        }
+
+        .newsletter_form {
+            padding: 0;
+            margin-left: 0;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .get_in_subject {
+            font-size: 26px;
+        }
+
+        .newsletter_form {
+            font-size: 18px;
+
+        }
+        .newsletter_wrapper{
+            flex-direction: column;
+        }
+        .newsletter_form_input{
+            margin: 15px 0;
+        }
+        .footer-content{
+
+            flex-wrap: wrap;
+        }
+        .footer_about{
+            width: 100%;
+            margin-right: 0;
+        }
+        .footer_menu{
+            margin-top: 20px;
+        }
+        .footer_contact{
+            margin-top: 20px;
+        }
+        .footer-content{
+            flex-direction: column;
+        }
+    }
+    @media (max-width: 768px) {
+        .col-3 {
+
+            width: 100%;
+        }
+
+        .hero-title {
+            font-size: 30px;
+
+        }
+
+        .hero-desc {
+            font-size: 12px;
+        }
+
+        .scroll-down {
+            font-size: 9px;
+
+        }
+
+        .header-menu-item {
+            font-size: 12px;
+            margin-left: 30px;
+
+        }
+
+        .section-title {
+
+            font-size: 16px;
+
+        }
+
+        .col-4 {
+            width: 100%;
+
+
+        }
+
+
+        .story-heading {
+            font-size: 17px;
+
+        }
+
+        .story-info {
+            font-size: 12px;
+        }
+
+        .about_info_item p {
+            font-size: 24px;
+
+        }
+
+        .descs {
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .cap-title {
+            font-size: 16px;
+
+
+        }
+
+        .cap-desc {
+            font-size: 11px;
+            margin-top: 15px;
+
+        }
+
+        .cap-btn {
+            font-size: 13px;
+            margin: 15px;
+            width: 150px;
+
+        }
+
+        .col-4 {
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        .get_in_subject {
+
+            font-size: 26px;
+
+        }
+
+        .col-8 {
+            width: 100%;
+
+
+        }
+
+        .get_in_subject {
+            font-size: 24px;
+        }
+
+        .newsletter_form {
+            font-size: 16px;
+
+        }
+        .newsletter_wrapper{
+            flex-direction: column;
+        }
+        .newsletter_form_input{
+            margin: 15px 0;
+        }
+        .footer-content{
+
+            flex-wrap: wrap;
+        }
+        .footer_about{
+            width: 100%;
+            margin-right: 0;
+        }
+        .footer_menu{
+            margin-top: 20px;
+        }
+        .footer_contact{
+            margin-top: 20px;
+        }
+        .footer-content{
+            flex-direction: column;
+        }
+    }
+
+    @media (max-width: 540px) {
+        .col-3 {
+
+            width: 100%;
+        }
+
+        .hero-title {
+            font-size: 25px;
+
+        }
+
+        .hero-desc {
+            font-size: 10px;
+        }
+
+        .scroll-down {
+            font-size: 8px;
+
+        }
+
+        .header-menu-item {
+            font-size: 12px;
+            margin-left: 25px;
+
+        }
+
+        .section-title {
+
+            font-size: 15px;
+
+        }
+
+        .col-4 {
+            width: 100%;
+
+
+        }
+
+        .story-heading {
+            font-size: 15px;
+
+        }
+
+        .story-info {
+            font-size: 12px;
+        }
+
+        .about_info_item p {
+            font-size: 24px;
+
+        }
+
+        .descs {
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .cap-title {
+            font-size: 15px;
+
+
+        }
+
+        .cap-desc {
+            font-size: 11px;
+            margin-top: 15px;
+
+        }
+
+        .cap-btn {
+            font-size: 13px;
+            margin: 15px 0 0;
+            width: 150px;
+
+        }
+
+        .col-4 {
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        .get_in_subject {
+
+            font-size: 22px;
+
+        }
+
+        .col-8 {
+            width: 100%;
+
+
+        }
+
+        .newsletter_form {
+            font-size: 15px;
+
+        }
+        .newsletter_wrapper{
+            flex-direction: column;
+        }
+        .newsletter_form_input{
+            margin: 15px 0;
+        }
+        
+.footer_about{
+    width: 100%;
 }
-@media(max-width: 768px) {
-    .col-3{
 
-        width: 100%;
-    }
-    .hero-title{
-        font-size: 30px;
-
-    }
-    .hero-desc{
-        font-size: 12px;
-    }
-    .scroll-down{
-        font-size: 9px;
-
-    }
-
-    .header-menu-item {
-        font-size: 12px;
-        margin-left: 30px;
-
-    }
-    .section-title {
-
-        font-size: 16px;
-
-    }
-    .col-4 {
-        width: 100%;
-
-
-    }
-
-
-    .story-heading {
-        font-size: 17px;
-
-    }
-    .story-info {
-        font-size: 12px;
-    }
-    .about_info_item p {
-        font-size: 24px;
-
-    }
-    .descs{
-        flex-direction: column;
-        width: 100%;
-    }
-    .cap-title {
-        font-size: 16px;
-
-
-
-    }
-    .cap-desc {
-        font-size: 11px;
-
-    }
-
-    .btn {
-        font-size: 13px;
-        margin: 15px;
-        width: 150px;
-
-    }
-    .col-4 {
-        width: 100%;
-        margin-top: 15px;
-    }
-    .get_in_subject {
-
-        font-size: 26px;
-
-    }
-    .col-8 {
-        width: 100%;
-
-
-    }
+.footer_desc{
+    width: 100%;
+    margin-right: 0;
 }
-
-@media(max-width: 540px) {
-    .col-3{
-
-        width: 100%;
-    }
-    .hero-title{
-        font-size: 25px;
-
-    }
-    .hero-desc{
-        font-size: 10px;
-    }
-    .scroll-down{
-        font-size: 8px;
-
-    }
-    .header-menu-item {
-        font-size: 12px;
-        margin-left: 25px;
-
-    }
-    .section-title {
-
-        font-size: 15px;
-
-    }
-    .col-4 {
-        width: 100%;
-
-
-    }
-    .story-heading {
-        font-size: 15px;
-
-    }
-    .story-info {
-        font-size: 12px;
-    }
-    .about_info_item p {
-        font-size: 24px;
-
-    }
-
-    .descs{
-        flex-direction: column;
-        width: 100%;
-    }
-    .cap-title {
-        font-size: 15px;
-
-
-
-    }
-    .cap-desc {
-        font-size: 11px;
-
-    }
-
-    .btn {
-        font-size: 13px;
-        margin: 15px 0 0;
-        width: 150px;
-
-    }
-    .col-4 {
-        width: 100%;
-        margin-top: 15px;
-    }
-    .get_in_subject {
-
-        font-size: 24px;
-
-    }
-    .col-8 {
-        width: 100%;
-
-
+.footer_menu{
+    margin-top: 20px;
+}
+        .footer_contact{
+            margin-top: 20px;
+        }
+        .footer-content{
+            flex-direction: column;
+        }
     }
 }
