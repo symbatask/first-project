@@ -1,0 +1,326 @@
+@media(max-width: 1200px) {
+    .container{
+        max-width: 940px;
+    }
+    .hero-title{
+        font-size: 60px;
+        margin-top: 42px;
+
+    }
+    .hero-desc{
+        font-size: 16px;
+    }
+    .scroll-down{
+    font-size: 11px;}
+    .story-heading {
+        font-size: 20px;
+
+    }
+    .story-info {
+        font-size: 13px;
+    }
+    .about_info_item p {
+        font-size: 24px;
+
+    }
+    .col-8 {
+        width: 100%;
+
+
+    }
+
+
+}
+    .header-menu-item {
+        font-size: 12px;
+        margin-left: 40px;
+    }
+    .section-title {
+
+        font-size: 18px;
+
+    }
+    .col-6 {
+        width: 50%;
+        padding: 0 15px;
+    }
+.story-heading {
+    font-size: 19px;}
+
+.story-info {
+    font-size: 13px;
+}
+.about_info_item p {
+    font-size: 24px;
+
+}
+.cap-title {
+    font-size: 18px;
+
+
+}
+.cap-desc {
+    font-size: 11px;
+
+}
+
+.btn {
+    font-size: 13px;
+width: 150px;
+
+
+}
+
+
+
+@media(max-width: 992px){
+
+    .container{
+        max-width: 740px;
+    }
+    .hero-title{
+        font-size: 45px;
+
+    }
+    .hero-desc{
+        font-size: 14px;
+    }
+    .scroll-down{
+        font-size: 10px;
+
+    }
+
+    .col-3{
+        width: 50%;
+    }
+    .header-menu-item {
+        font-size: 12px;
+        margin-left: 35px;
+
+    }
+    .section-title {
+
+        font-size: 17px;
+
+    }
+    .col-6 {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .story-heading {
+        font-size: 18px;
+
+    }
+
+    .story-info {
+        font-size: 13px;
+    }
+    .about_info_item p {
+        font-size: 24px;
+
+    }
+.descs{
+    flex-direction: column;
+    width: 100%;
+
+}
+    .cap-title {
+        font-size: 17px;
+
+
+
+    }
+    .cap-desc {
+        font-size: 11px;
+
+    }
+
+    .btn {
+        font-size: 13px;
+        margin: 15px 0 0;
+        width: 150px;
+
+    }
+    .col-4 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .get_in_subject {
+
+        font-size: 28px;
+
+    }
+    .col-8 {
+        width: 100%;
+
+
+    }
+    .newsletter_form{
+        padding: 0;
+        margin-left: 0;
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+@media(max-width: 768px) {
+    .col-3{
+
+        width: 100%;
+    }
+    .hero-title{
+        font-size: 30px;
+
+    }
+    .hero-desc{
+        font-size: 12px;
+    }
+    .scroll-down{
+        font-size: 9px;
+
+    }
+
+    .header-menu-item {
+        font-size: 12px;
+        margin-left: 30px;
+
+    }
+    .section-title {
+
+        font-size: 16px;
+
+    }
+    .col-4 {
+        width: 100%;
+
+
+    }
+
+
+    .story-heading {
+        font-size: 17px;
+
+    }
+    .story-info {
+        font-size: 12px;
+    }
+    .about_info_item p {
+        font-size: 24px;
+
+    }
+    .descs{
+        flex-direction: column;
+        width: 100%;
+    }
+    .cap-title {
+        font-size: 16px;
+
+
+
+    }
+    .cap-desc {
+        font-size: 11px;
+
+    }
+
+    .btn {
+        font-size: 13px;
+        margin: 15px;
+        width: 150px;
+
+    }
+    .col-4 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .get_in_subject {
+
+        font-size: 26px;
+
+    }
+    .col-8 {
+        width: 100%;
+
+
+    }
+}
+
+@media(max-width: 540px) {
+    .col-3{
+
+        width: 100%;
+    }
+    .hero-title{
+        font-size: 25px;
+
+    }
+    .hero-desc{
+        font-size: 10px;
+    }
+    .scroll-down{
+        font-size: 8px;
+
+    }
+    .header-menu-item {
+        font-size: 12px;
+        margin-left: 25px;
+
+    }
+    .section-title {
+
+        font-size: 15px;
+
+    }
+    .col-4 {
+        width: 100%;
+
+
+    }
+    .story-heading {
+        font-size: 15px;
+
+    }
+    .story-info {
+        font-size: 12px;
+    }
+    .about_info_item p {
+        font-size: 24px;
+
+    }
+
+    .descs{
+        flex-direction: column;
+        width: 100%;
+    }
+    .cap-title {
+        font-size: 15px;
+
+
+
+    }
+    .cap-desc {
+        font-size: 11px;
+
+    }
+
+    .btn {
+        font-size: 13px;
+        margin: 15px 0 0;
+        width: 150px;
+
+    }
+    .col-4 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .get_in_subject {
+
+        font-size: 24px;
+
+    }
+    .col-8 {
+        width: 100%;
+
+
+    }
+}
