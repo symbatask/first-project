@@ -14,7 +14,7 @@ body {
 }
 
 .hero {
-    background: url('../images/first-bg.png')fixed no-repeat center/cover;
+    background: url('../images/first-bg.png') no-repeat center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -333,6 +333,7 @@ body {
     font-size: 11px;
     letter-spacing: 0.846154px;
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .footer_contact_mail {
@@ -423,4 +424,36 @@ bottom: 0;
     left: 0;
     bottom: -10px;
 
+}
+.menu-btn{
+    width: 40px;
+    height: 45px;
+    align-items: center;
+    display: none;
+}
+.menu-btn span{
+    display:inline-block;
+    height: 2px;
+    width: 100%;
+    background-color: #141A20;
+    position: relative;
+    transition: .6s;
+}
+.menu-btn span:before{
+    content: " ";
+    height: 2px;
+    width: 100%;
+    background-color: #141A20;
+    position: absolute;
+    top: -10px;
+    transition: .6s;
+}
+.menu-btn span:after{
+    content: " ";
+    height: 2px;
+    width: 100%;
+    background-color: #141A20;
+    position: absolute;
+    top: 10px;
+    transition: .6s;
 }
