@@ -4,6 +4,9 @@
     box-sizing: border-box;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 
 a {
     text-decoration: none;
@@ -50,6 +53,10 @@ body {
     letter-spacing: 3.7px;
     text-transform: uppercase;
     padding-bottom: 71px;
+}
+.header-logo{
+    display: flex;
+    align-items: center;
 }
 
 .header {
@@ -457,4 +464,7 @@ bottom: 0;
     position: absolute;
     top: 10px;
     transition: .6s;
+}
+.btn:hover{
+    background-color: steelblue;
 }
