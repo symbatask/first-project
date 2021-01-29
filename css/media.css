@@ -14,7 +14,7 @@
     }
 
     .scroll-down {
-        font-size: 11px;
+        font-size: 12px;
     }
 
     .story-heading {
@@ -22,9 +22,7 @@
 
     }
 
-    .story-info {
-        font-size: 13px;
-    }
+
 
     .about_info_item p {
         font-size: 24px;
@@ -66,10 +64,7 @@
         font-size: 13px;
     }
 
-    .about_info_item p {
-        font-size: 24px;
 
-    }
 
     .cap-title {
         font-size: 18px;
@@ -116,17 +111,14 @@
             font-size: 14px;
         }
 
-        .scroll-down {
-            font-size: 12px;
 
-        }
 
         .col-3 {
             width: 50%;
         }
 
         .header-menu-item {
-            font-size: 12px;
+
             margin-left: 35px;
 
         }
@@ -139,7 +131,7 @@
 
         .col-6 {
             width: 100%;
-            padding: 0 15px;
+
         }
 
         .story-heading {
@@ -147,14 +139,9 @@
 
         }
 
-        .story-info {
-            font-size: 13px;
-        }
 
-        .about_info_item p {
-            font-size: 24px;
 
-        }
+
 
         .descs {
             flex-direction: column;
@@ -169,15 +156,15 @@
         }
 
         .cap-desc {
-            font-size: 12px;
+
             margin-top: 15px;
 
         }
 
         .cap-btn {
-            font-size: 13px;
+
             margin: 15px 0 0;
-            width: 150px;
+
 
         }
 
@@ -186,33 +173,23 @@
             margin-top: 15px;
         }
 
-        .get_in_subject {
-
-            font-size: 28px;
-
-        }
-
-        .col-8 {
-            width: 100%;
+       
 
 
-        }
 
         .newsletter_form {
             padding: 0;
             margin-left: 0;
             flex-direction: column;
             align-items: center;
+            font-size: 18px;
         }
 
         .get_in_subject {
             font-size: 26px;
         }
 
-        .newsletter_form {
-            font-size: 18px;
 
-        }
         .newsletter_wrapper{
             flex-direction: column;
         }
@@ -252,13 +229,10 @@
             font-size: 12px;
         }
 
-        .scroll-down {
-            font-size: 12px;
 
-        }
 
         .header-menu-item {
-            font-size: 12px;
+
             margin-left: 30px;
 
         }
@@ -285,10 +259,7 @@
             font-size: 12px;
         }
 
-        .about_info_item p {
-            font-size: 24px;
 
-        }
 
         .descs {
             flex-direction: column;
@@ -302,15 +273,15 @@
         }
 
         .cap-desc {
-            font-size: 12px;
+
             margin-top: 15px;
 
         }
 
         .cap-btn {
-            font-size: 13px;
+
             margin: 15px;
-            width: 150px;
+
 
         }
 
@@ -325,11 +296,7 @@
 
         }
 
-        .col-8 {
-            width: 100%;
 
-
-        }
 
         .get_in_subject {
             font-size: 24px;
@@ -419,17 +386,12 @@
 
             }
 
-            .hero-desc {
-                font-size: 12px;
-            }
 
-            .scroll-down {
-                font-size: 12px;
 
-            }
+
 
             .header-menu-item {
-                font-size: 12px;
+
                 margin-left: 25px;
 
             }
@@ -451,14 +413,8 @@
 
             }
 
-            .story-info {
-                font-size: 12px;
-            }
 
-            .about_info_item p {
-                font-size: 24px;
 
-            }
 
             .descs {
                 flex-direction: column;
@@ -472,15 +428,15 @@
             }
 
             .cap-desc {
-                font-size: 12px;
+
                 margin-top: 15px;
 
             }
 
             .cap-btn {
-                font-size: 13px;
+
                 margin: 15px 0 0;
-                width: 150px;
+
 
             }
 
@@ -495,11 +451,7 @@
 
             }
 
-            .col-8 {
-                width: 100%;
 
-
-            }
 
             .newsletter_form {
                 font-size: 15px;
